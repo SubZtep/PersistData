@@ -21,7 +21,7 @@ string data = (string)PersistData.Instance.Get("test");
 
 Test data
 
-```cshart
+```csharp
 if (PersistData.Instance.Has("test")) {
 	// Exists
 }
